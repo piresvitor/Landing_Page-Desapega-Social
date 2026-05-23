@@ -4,7 +4,7 @@
 
 O **Desapega Social** conecta quem deseja doar itens usados com quem mais precisa. Utilizando Inteligência Artificial e geolocalização, a plataforma promove a economia circular, a inclusão social e resolve o desafio logístico do transporte de doações.
 
-🔗 **[Acesse a Landing Page do Projeto Aqui](Link_da_Vercel_Aqui)**  
+🔗 **[Acesse a Landing Page do Projeto Aqui](https://landing-page-desapega-social.vercel.app/)**  
 📺 **[Assista ao nosso Vídeo Pitch no YouTube](https://youtu.be/PVFZjBZT7rQ)**
 
 

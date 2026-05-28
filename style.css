@@ -224,6 +224,50 @@ footer { background-color: var(--secondary); color: white; padding: 25px 5% 5px 
 }
 .btn-youtube:hover { background-color: #EF4444; }
 
+.btn-pdf { 
+    background-color: #2563EB; /* Azul vibrante e profissional */
+    color: white; 
+    padding: 10px 20px; 
+    border-radius: 8px; 
+    font-weight: bold; 
+    display: inline-block; 
+    transition: 0.3s;
+}
+.btn-pdf:hover { background-color: #1D4ED8; }
+
+/* ESTRUTURA DAS DUAS COLUNAS DE LINKS */
+.footer-links-wrapper {
+    display: flex;
+    gap: 30px; 
+    flex-wrap: wrap; 
+    align-items: flex-start;
+}
+
+.footer-link-col {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    align-items: flex-start;
+    height: max-content; 
+}
+
+.footer-link-col a {
+    margin: 0 !important;
+}
+/* NOVO BOTÃO DE DEMONSTRAÇÃO (Usando a cor primária do projeto) */
+.btn-demo {
+    background-color: var(--primary);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+    display: inline-block;
+    transition: 0.3s;
+}
+.btn-demo:hover { 
+    background-color: var(--primary-dark); 
+}
+
 /* RESPONSIVE */
 @media (max-width: 900px) {
     .navbar {
